@@ -1,12 +1,20 @@
 {
   "name": "@4lch4/connor-cli",
   "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "The CLI component of my Digital Assistant, Project Connor.",
+  "main": "dist/index.js",
+  "packageManager": "pnpm@7.1.6",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "project-connor",
+    "connor",
+    "connor-cli",
+    "commander",
+    "digital-assistant"
+  ],
   "author": {
     "name": "4lch4",
     "email": "hey@4lch4.email",
